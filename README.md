@@ -18,7 +18,7 @@ Robotics + AI
   `https://github.com/USERNAME/patient-monitoring-raspi-mlx90640` *(to be added)*
 - **HonestRE (Честно о ЖК).** Telegram WebApp + Bot for residential-complex reviews: moderation, ranking, geosearch, RAG summaries.  
   `https://github.com/USERNAME/honestre` *(to be added)*
-- **Arduino Bicycle Speedometer — Kyoto Award 2019.** LCD/Servo/Hall/LED with night-mode LDR.  
+- **Bicycle Speedometer — Kyoto Award 2019.** LCD/Servo/Hall/LED with night-mode LDR.  
   `https://github.com/USERNAME/arduino-bike-speedometer-kyoto-2019` *(to be added)*
 
 ## Teaching & Outreach
