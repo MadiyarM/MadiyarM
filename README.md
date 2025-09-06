@@ -15,11 +15,11 @@ Robotics + AI
 
 ## Research Artifacts
 - **Contactless Patient Monitoring (RPi4, MLX90640, Face-ID).** Code, docs, enclosure, demos.  
-  `[https://github.com/USERNAME/patient-monitoring-raspi-mlx90640](https://github.com/MadiyarM/patient-monitoring-raspi-mlx90640)`
+  [GitHub Repository](https://github.com/MadiyarM/patient-monitoring-raspi-mlx90640)
 - **HonestRE (Честно о ЖК).** Telegram WebApp + Bot for residential-complex reviews: moderation, ranking, geosearch, RAG summaries.  
-  `[https://github.com/USERNAME/honestre](https://github.com/MadiyarM/honestre-bot)` 
+  [GitHub Repository](https://github.com/MadiyarM/honestre-bot) 
 - **Bicycle Speedometer — Kyoto Award 2019.** LCD/Servo/Hall/LED with night-mode LDR.  
-  `[https://github.com/USERNAME/arduino-bike-speedometer-kyoto-2019](https://github.com/MadiyarM/bike-speedometer-kyoto-2019)` 
+  [GitHub Repository](https://github.com/MadiyarM/bike-speedometer-kyoto-2019) 
 
 ## Teaching & Outreach
 ---
