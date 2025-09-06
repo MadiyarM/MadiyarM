@@ -21,11 +21,7 @@ Robotics + AI
 - **Bicycle Speedometer — Kyoto Award 2019.** LCD/Servo/Hall/LED with night-mode LDR.  
   [Code & Docs](https://github.com/MadiyarM/bike-speedometer-kyoto-2019) 
 
-## Teaching & Outreach
 ---
-
-## Open to collaborate on
-ROS2 navigation & perception, RL policies for manipulation/navigation, multimodal fusion (IR+RGB).
 
 ## Contact
 Website: https://madiyarmukanov.com/ • Google Scholar: **to be added** • ORCID: https://orcid.org/0009-0004-3340-763X • Email: MMukanovM@gmail.com
