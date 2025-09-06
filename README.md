@@ -15,19 +15,19 @@ Robotics + AI
 
 ## Research Artifacts
 - **Contactless Patient Monitoring (RPi4, MLX90640, Face-ID).** Code, docs, enclosure, demos.  
-  `https://github.com/USERNAME/patient-monitoring-raspi-mlx90640` *(to be added)*
+  `[https://github.com/USERNAME/patient-monitoring-raspi-mlx90640](https://github.com/MadiyarM/patient-monitoring-raspi-mlx90640)`
 - **HonestRE (Честно о ЖК).** Telegram WebApp + Bot for residential-complex reviews: moderation, ranking, geosearch, RAG summaries.  
-  `https://github.com/USERNAME/honestre` *(to be added)*
+  `[https://github.com/USERNAME/honestre](https://github.com/MadiyarM/honestre-bot)` 
 - **Bicycle Speedometer — Kyoto Award 2019.** LCD/Servo/Hall/LED with night-mode LDR.  
-  `https://github.com/USERNAME/arduino-bike-speedometer-kyoto-2019` *(to be added)*
+  `[https://github.com/USERNAME/arduino-bike-speedometer-kyoto-2019](https://github.com/MadiyarM/bike-speedometer-kyoto-2019)` 
 
 ## Teaching & Outreach
-LED-matrix lessons (MAX7219), Arduino/embedded workshops, pedagogy-first materials.
+---
 
 ## Open to collaborate on
 ROS2 navigation & perception, RL policies for manipulation/navigation, multimodal fusion (IR+RGB).
 
 ## Contact
-Website: **ADD-LINK** • Google Scholar: **ADD-LINK** • ORCID: **ADD-LINK** • Email: **ADD-EMAIL**
+Website: https://madiyarmukanov.com/ • Google Scholar: **to be added** • ORCID: https://orcid.org/0009-0004-3340-763X • Email: MMukanovM@gmail.com
 
-<sub>Last updated: YYYY-MM-DD</sub>
+<sub>Last updated: 2025-09-06</sub>
